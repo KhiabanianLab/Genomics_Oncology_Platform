@@ -70,8 +70,8 @@ Genomics Oncology Platform is a graphical user interface software aimed to extra
 
 ### Built With
 
-* []R Shiny 
-* []Python
+* R Shiny 
+* Python
 
 
 
