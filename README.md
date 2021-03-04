@@ -65,9 +65,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo_name`, `twitter_handle`, `email`, `project_title`, `project_description`
+Genomics Oncology Platform is a graphical user interface software aimed to extract and analyze genomics sequencing data to produce an easily interpretable report. The platform offers tumor purity estimation based on Allele Frequency based Imputation of Tumor Purity (All-FIT; DOI: 10.1093/bioinformatics/btz865), and mutational modeling of variants present in tumor-only sequencing data as well Loss of Heterozygosity (LOH) status based on Loss of Heterozygosity Inference Calculator (LOHGIC; DOI: 10.1200/PO.17.00148).
 
 
 ### Built With
