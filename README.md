@@ -79,12 +79,16 @@ Genomics Oncology Platform is a graphical user interface software aimed to extra
 <!-- GETTING STARTED -->
 ## Getting Started
 
-To get a local copy up and running follow these simple steps.
+To get a local copy up and just clone this repository and run genomic_oncology_app.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
+The Shiny user interface implements allows the user to input a FoundationMedicine xml file or a general input file. All-FIT and LOHGIC are implemented in Python within the user interface.
+* Dependencies for R:
+  ```sh
+  npm install npm@latest -g
+  ```
+* Dependencies for Python:
   ```sh
   npm install npm@latest -g
   ```
