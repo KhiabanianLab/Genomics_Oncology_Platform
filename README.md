@@ -37,9 +37,9 @@
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
   <ol>
     <li>
-      <a href="#about-the-project">Genomics Oncology Platform is a graphical user interface software aimed to extract and analyze genomics sequencing data to produce an easily interpretable report. The platform offers tumor purity estimation based on Allele Frequency based Imputation of Tumor Purity (All-FIT; DOI: 10.1093/bioinformatics/btz865), and mutational modeling of variants present in tumor-only sequencing data as well Loss of Heterozygosity (LOH) status based on Loss of Heterozygosity Inference Calculator (LOHGIC; DOI: 10.1200/PO.17.00148).</a>
+      <a href="#about-the-project">About the project</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#built-with">Built With </a></li>
       </ul>
     </li>
     <li>
