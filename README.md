@@ -79,29 +79,43 @@ Genomics Oncology Platform is a graphical user interface software aimed to extra
 <!-- GETTING STARTED -->
 ## Getting Started
 
-To get a local copy up and just clone this repository and run genomic_oncology_app.
+To get a local copy up and just clone this repository and run app.R
 
 ### Prerequisites
 
 The Shiny user interface implements allows the user to input a FoundationMedicine xml file or a general input file. All-FIT and LOHGIC are implemented in Python within the user interface.
-* Dependencies for R:
+* Dependencies for R: the following libraries are required for the R shiny application 
   ```sh
-  npm install npm@latest -g
+  shiny
+  XML
+  methods
+  DT
+  reticulate
+  readr
+  crosstalk
+  leaflet
+  patchwork
+  scales
+  tidyverse
+  shinypanels
+  readxl
   ```
-* Dependencies for Python:
+* Dependencies for Python: the following packages are required for All-FIT and LOHGIC python script
   ```sh
-  npm install npm@latest -g
+  argparse
+  subprocess
+  numpy
+  scipy
+  os
+  matplotlib
+  textwrap
   ```
 
 ### Installation
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
-   ```
-2. Install NPM packages
-   ```sh
-   npm install
+   git clone https://github.com/njalloul90/Genomics_Oncology_Platform.git
    ```
 
 
@@ -109,7 +123,7 @@ The Shiny user interface implements allows the user to input a FoundationMedicin
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+### Using the R Shiny application
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
