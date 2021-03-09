@@ -125,7 +125,7 @@ The Shiny user interface implements allows the user to input a FoundationMedicin
 
 ### Using the R Shiny application
 Input file selection:
-![Alt text](njalloul90/Genomics_Oncology_Platform/Screenshots/Main.png?raw=true "Main")
+![Alt text](/Screenshots/Main.png?raw=true "Main")
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
