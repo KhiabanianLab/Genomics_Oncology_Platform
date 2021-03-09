@@ -153,7 +153,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Your Name - [@nahed_jalloul](https://twitter.com/nahed_jalloul) - email: nj277@cinj.rutgers.edu
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/njalloul90/Genomics_Oncology_Platform](https://github.com/njalloul90/Genomics_Oncology_Platform)
 
 
 
