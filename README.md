@@ -79,7 +79,7 @@ Genomics Oncology Platform is a graphical user interface software aimed to extra
 <!-- GETTING STARTED -->
 ## Getting Started
 
-To get a local copy up and just clone this repository and run genomic_oncology_app.
+To get a local copy up and just clone this repository and run app.R
 
 ### Prerequisites
 
