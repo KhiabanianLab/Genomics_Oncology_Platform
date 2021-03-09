@@ -124,8 +124,14 @@ The Shiny user interface implements allows the user to input a FoundationMedicin
 ## Usage
 
 ### Using the R Shiny application
-Input file selection:
+
 ![Alt text](/Screenshots/Main.png?raw=true "Main")
+
+
+Input file selection:
+* General: must be an xlsx file with the required inputs (exact headers: "Sample_ID","Gene","VAF","Depth","Copy_Number"); the file can include further columnc such as pathological and computaitonal purities (exact headers: "Pathological_Purity", "Computational_Purity"), as well as clinical infromation. See /Sample Data/sample_data.xlsx.
+* []()
+* []()
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
