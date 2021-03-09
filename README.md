@@ -125,28 +125,20 @@ The Shiny user interface implements allows the user to input a FoundationMedicin
 
 ### Using the R Shiny application
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+![Alt text](/Screenshots/Main.png?raw=true "Main")
 
 
-
-<!-- ROADMAP -->
-## Roadmap
-
-See the [open issues](https://github.com/github_username/repo_name/issues) for a list of proposed features (and known issues).
+Input file selection:
+* General: must be an xlsx file with the required inputs (exact headers: "Sample_ID", "Gene", "VAF", "Depth", "Copy_Number"); the file can include further columns such as pathological and computational purities (exact headers: "Pathological_Purity", "Computational_Purity"), as well as clinical infromation. See /Sample Data/sample_data.xlsx .
+* Foundation_xml: must be a FoundationOne CDx xml file with the default tags.
 
 
+### Using the python script directly
 
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
+Alternatively, you can run the python script All-FIT2.py directly:
+```sh
+python All-FIT2.py -h
+```
 
 
 <!-- LICENSE -->
@@ -159,7 +151,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
+Your Name - [@nahed_jalloul](https://twitter.com/nahed_jalloul) - email: nj277@cinj.rutgers.edu
 
 Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
 
