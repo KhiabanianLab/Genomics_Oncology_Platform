@@ -140,12 +140,6 @@ Alternatively, you can run the python script All-FIT2.py directly:
 python All-FIT2.py -h
 ```
 
-example:
-
-```sh
-python All-FIT2.py -i Sample\ Data/tabledata.txt -d Sample\ Data/ -o test_out_py.txt
-```
-
 
 <!-- ROADMAP -->
 ## Roadmap
