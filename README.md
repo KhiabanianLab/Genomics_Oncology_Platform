@@ -115,7 +115,7 @@ The Shiny user interface implements allows the user to input a FoundationMedicin
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/njalloul90/Genomics_Oncology_Platform.git
    ```
 2. Install NPM packages
    ```sh
