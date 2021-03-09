@@ -84,7 +84,7 @@ To get a local copy up and just clone this repository and run app.R
 ### Prerequisites
 
 The Shiny user interface implements allows the user to input a FoundationMedicine xml file or a general input file. All-FIT and LOHGIC are implemented in Python within the user interface.
-* Dependencies for R:
+* Dependencies for R: the following libraries are required for the R shiny application 
   ```sh
   shiny
   XML
@@ -100,9 +100,15 @@ The Shiny user interface implements allows the user to input a FoundationMedicin
   shinypanels
   readxl
   ```
-* Dependencies for Python:
+* Dependencies for Python: the following packages are required for All-FIT and LOHGIC python script
   ```sh
-  npm install npm@latest -g
+  argparse
+  subprocess
+  numpy
+  scipy
+  os
+  matplotlib
+  textwrap
   ```
 
 ### Installation
