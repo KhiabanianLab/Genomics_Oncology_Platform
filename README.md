@@ -141,14 +141,6 @@ python All-FIT2.py -h
 ```
 
 
-<!-- ROADMAP -->
-## Roadmap
-
-See the [open issues](https://github.com/github_username/repo_name/issues) for a list of proposed features (and known issues).
-
-
-
-
 <!-- LICENSE -->
 ## License
 
@@ -159,7 +151,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
+Your Name - [@nahed_jalloul](https://twitter.com/nahed_jalloul) - email: nj277@cinj.rutgers.edu
 
 Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
 
