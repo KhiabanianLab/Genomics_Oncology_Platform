@@ -133,7 +133,13 @@ Input file selection:
 * Foundation_xml: must be a FoundationOne CDx xml file with the default tags.
 
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+### Using the python script directly
+
+Alternatively, you can run the python script All-FIT2.py directly:
+```sh
+python All-FIT2.py -h
+```
+
 
 
 
