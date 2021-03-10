@@ -104,7 +104,7 @@ The Shiny user interface implements allows the user to input a FoundationMedicin
    ```sh
    git clone https://github.com/njalloul90/Genomics_Oncology_Platform.git
    ```
-2. Run app.R in RStudio
+2. Set working directory to the downloaded repository and Run app.R in RStudio
 
 
 <!-- USAGE EXAMPLES -->
