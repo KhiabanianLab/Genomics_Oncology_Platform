@@ -72,15 +72,18 @@ To get a local copy up and running just clone this repository and run the Platfo
 
 The  user interface allows the user to input a FoundationMedicine xml file or a general input file. All-FIT and LOHGIC are implemented in Python within the user interface.
 
-* Dependencies for Python: the following packages are required for All-FIT and LOHGIC python script
+* Dependencies for the pipeline: the following packages are required for All-FIT and LOHGIC python script
   ```sh
-  argparse
-  subprocess
-  numpy
   scipy
-  os
-  matplotlib
+  numpy
   textwrap
+  os
+  xml
+  ```
+* Dependencies for the GUI:
+  ```sh
+  tkinter
+  pandas
   ```
 
 ### Installation
@@ -89,13 +92,17 @@ The  user interface allows the user to input a FoundationMedicine xml file or a 
    ```sh
    git clone https://github.com/njalloul90/Genomics_Oncology_Platform.git
    ```
-2. Set working directory to the downloaded repository and Run app.R in RStudio
+2. In Mac OS, run the application "Platfrom" in folder dist, OR
+3. In windows/linux/mac, the GUI can be run as a python script:
+```sh
+python Platform.py
+```
 
 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-### Using the R Shiny application
+### Using the application
 
 ![Alt text](/Screenshots/Main.png?raw=true "Main")
 
@@ -103,14 +110,6 @@ The  user interface allows the user to input a FoundationMedicine xml file or a 
 Input file selection:
 * General: must be an xlsx file with the required inputs (exact headers: "Sample_ID", "Gene", "VAF", "Depth", "Copy_Number"); the file can include further columns such as pathological and computational purities (exact headers: "Pathological_Purity", "Computational_Purity"), as well as clinical infromation. See /Sample Data/sample_data.xlsx .
 * Foundation_xml: must be a FoundationOne CDx xml file with the default tags.
-
-
-### Using the python script directly
-
-Alternatively, you can run the python script All-FIT2.py directly:
-```sh
-python All-FIT2.py -h
-```
 
 
 <!-- LICENSE -->
