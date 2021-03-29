@@ -104,7 +104,7 @@ python Platform.py
 
 ### Using the application
 
-![Alt text](/Screenshots/Main.png?raw=true "Main")
+![Alt text](/Screenshots/MainGUI.png?raw=true "Main")
 
 
 Input file selection:
