@@ -88,8 +88,12 @@ The  user interface allows the user to input a FoundationMedicine xml file or a 
   ```
 
 ### Installation
-
-0. Easy run using Anaconda navigator
+#### Easy run using Anaconda navigator (recommended for any OS)
+1. Clone the repo
+   ```sh
+   git clone https://github.com/njalloul90/Genomics_Oncology_Platform.git
+   ```
+2. Run in Anaconda Spyder   
 ```sh
 Go to: https://www.anaconda.com/products/individual
 Download Anaconda navigator Graphical Installer based on compatible OS
@@ -98,7 +102,7 @@ In Spyder's terminal window: cd /path/to/downloaded/git/repository/
 Open Platform.py
 Click run
 ```
-
+#### Manual Installation
 1. Clone the repo
    ```sh
    git clone https://github.com/njalloul90/Genomics_Oncology_Platform.git
