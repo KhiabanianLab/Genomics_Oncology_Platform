@@ -91,7 +91,7 @@ The  user interface allows the user to input a FoundationMedicine xml file or a 
 #### Easy run using Anaconda navigator (recommended for any OS)
 1. Clone the repo
    ```sh
-   git clone https://github.com/njalloul90/Genomics_Oncology_Platform.git
+   git clone https://github.com/KhiabanianLab/Genomics_Oncology_Platform.git
    ```
 2. Run in Anaconda Spyder   
 ```sh
@@ -105,7 +105,7 @@ Click run
 #### Manual Installation
 1. Clone the repo
    ```sh
-   git clone https://github.com/njalloul90/Genomics_Oncology_Platform.git
+   git clone https://github.com/KhiabanianLab/Genomics_Oncology_Platform.git
    ```
 2. In Mac OS, run the application "Platfrom" in folder dist, OR
 3. In windows/linux/mac, the GUI can be run as a python script:
