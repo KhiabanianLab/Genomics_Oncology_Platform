@@ -92,7 +92,7 @@ The  user interface allows the user to input a FoundationMedicine xml file or a 
 0. Easy run using Anaconda navigator
 ```sh
 Go to: https://www.anaconda.com/products/individual
-Download Anaconda navigator based on compatible OS
+Download Anaconda navigator Graphical Installer based on compatible OS
 Launch Spyder
 In Spyder's terminal window: cd /path/to/downloaded/git/repository/
 Open Platform.py
